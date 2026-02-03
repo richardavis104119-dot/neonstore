@@ -1,0 +1,15 @@
+{
+  "name": "NEONSTORE - Next-Gen Digital Hub",
+  "description": "Nền tảng thương mại sản phẩm số và khóa học AI hàng đầu với trợ lý ảo thông minh.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "icons": [
+    {
+      "src": "https://lucide.dev/icons/zap.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
